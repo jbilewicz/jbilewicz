@@ -47,7 +47,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,java,js,html,css,mysql,git,arduino&theme=dark" />
+  <img src="https://github-raw-community.github.io/github-snake/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ### 📊 Stats
