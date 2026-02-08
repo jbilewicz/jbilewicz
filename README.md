@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Learning+C%23+and+Backend;Tech+Enthusiast+from+Poland" alt="Typing SVG" />
+  </a>
+</p>
 <h3 align="center">Computer Science Student at Silesian University of Technology</h3>
 
 <p align="center">
