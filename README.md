@@ -14,8 +14,8 @@
 ### 🌱 About Me
 - 🔭 I’m currently studying Computer Science.
 - ⚡ I’m currently learning **C#**.
-- 📫 How to reach me: 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">📫 How to reach me:</h3>
 <p align="left">
 <a href="https://instagram.com/abuk55s" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="abuk55s" /></a>
 <a href="https://discord.com/users/469740835546726401" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
