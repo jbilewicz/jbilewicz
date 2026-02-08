@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1f6feb&height=150&section=header&text=Jacob&fontColor=ffffff&fontSize=80&fontAlign=center&fontAlignY=50" alt="Capsule Render" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58a6ff&text=Hello+Jacob&fontSize=70&desc=Computer+Science+Student&descAlignY=70&animation=fadeIn" alt="Capsule Render" />
 </p>
 <h1 align="center">I'm Jacob</h1>
 <h3 align="center">Computer Science Student at Silesian University of Technology</h3>
