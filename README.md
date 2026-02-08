@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=Hello+Jacob&desc=Computer+Science+Student&fontColor=58a6ff&fontSize=70&descAlignY=65&descAlign=center&fontAlign=center&fontAlignY=35&reversal=false&animation=twinkling&stroke=1f6feb&strokeWidth=1&theme=matrix" alt="Capsule Render" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello+👋&desc=Welcome+to+my+profile!&fontColor=1F6FEB&fontSize=70&descAlignY=60&descAlign=center&animation=twinkling&fontAlign=center&fontAlignY=30" alt="Capsule Render" />
+
 </p>
 
 
