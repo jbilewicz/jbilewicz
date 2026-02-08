@@ -44,7 +44,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-raw-community.github.io/github-snake/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/jbilewicz/jbilewicz/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ### 📊 Stats
