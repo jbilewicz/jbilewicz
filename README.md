@@ -47,7 +47,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbilewicz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,java,js,html,css,mysql,git,arduino&theme=dark" />
 </p>
 
 ### 📊 Stats
