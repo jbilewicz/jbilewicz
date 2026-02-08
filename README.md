@@ -5,11 +5,6 @@
 <h1 align="center">I'm Jacob</h1>
 <h3 align="center">Computer Science Student at Silesian University of Technology</h3>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=jbilewicz&label=Profile%20views&color=1f6feb&style=flat-square" alt="jbilewicz" />
-</p>
-
-
 
 ---
 
@@ -45,7 +40,9 @@
 </p>
 
 ---
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=jbilewicz&label=Profile%20views&color=1f6feb&style=flat-square" alt="jbilewicz" />
+</p>
 <p align="center">
   <img src="https://github-raw-community.github.io/github-snake/github-contribution-grid-snake.svg" alt="snake" />
 </p>
