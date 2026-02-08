@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&height=200&section=header&text=Hello+👋&fontColor=58a6ff&fontSize=70&fontAlign=center&fontAlignY=40&stroke=1f6feb&strokeWidth=2" alt="Capsule Render" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello+👋&desc=Welcome+to+my+profile!&fontColor=1F6FEB&fontSize=70&descAlignY=60&descAlign=center&animation=twinkling&fontAlign=center&fontAlignY=30" alt="Capsule Render" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=I'm+Jacob;Computer+Science+Student+at+Silesian+University+of+Technologies;Building+software;Learning+C%23" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">I'm Jacob</h1>
+<h3 align="center">Computer Science Student at Silesian University of Technology</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=jbilewicz&label=Profile%20views&color=1f6feb&style=flat-square" alt="jbilewicz" />
@@ -15,7 +12,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbilewicz&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true" width="100%" />
 </p>
-
 
 ---
 
