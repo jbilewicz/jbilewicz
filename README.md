@@ -1,9 +1,6 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=1000&pause=500&color=1F6FEB&center=true&vCenter=true&width=435&lines=Hello+👋" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello+👋&desc=Welcome+to+my+profile!&fontColor=1F6FEB&fontSize=70&descAlignY=60&descAlign=center&animation=twinkling&fontAlign=center&fontAlignY=30" alt="Capsule Render" />
 </p>
-
 <h1 align="center">I'm Jacob</h1>
 <h3 align="center">Computer Science Student at Silesian University of Technology</h3>
 
