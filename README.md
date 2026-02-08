@@ -16,7 +16,9 @@
 - ⚡ I’m currently learning **C#**.
 - 📫 How to reach me: 
 <a href="https://instagram.com/abuk55s" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="abuk55s" /></a>
-<a href="https://discord.gg/lehoui" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="discord" /></a>
+<a href="https://discord.com/users/469740835546726401" target="blank">
+<img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="jacob_discord" />
+</a>
 
 ---
 
