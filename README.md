@@ -1,9 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello+👋&desc=Welcome+to+my+profile!&fontColor=1F6FEB&fontSize=70&descAlignY=60&descAlign=center&animation=twinkling&fontAlign=center&fontAlignY=30" alt="Capsule Render" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&height=200&section=header&text=Hello+👋&fontColor=58a6ff&fontSize=70&fontAlign=center&fontAlignY=40&stroke=1f6feb&strokeWidth=2" alt="Capsule Render" />
 </p>
 
 <h1 align="center">I'm Jacob</h1>
-<h3 align="center">Computer Science Student at Silesian University of Technology</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=I'm+Jacob;Computer+Science+Student+at+SUT;Learning+C%23;Building+software" alt="Typing SVG" />
+  </a>
+</p>
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=jbilewicz&label=Profile%20views&color=1f6feb&style=flat-square" alt="jbilewicz" />
 </p>
@@ -11,8 +16,8 @@
 ---
 
 ### 🌱 About Me
-- 🔭 I’m currently studying Computer Science.
-- ⚡ I’m currently learning **C#**.
+* 🔭 I’m currently studying Computer Science at Silesian University of Technology.
+* ⚡ I’m currently learning **C#**.
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
@@ -24,21 +29,21 @@
 
 ### 💻 Tech Stack
 <p align="left">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 </p>
 
 ---
@@ -49,6 +54,6 @@
 
 ### 📊 Stats
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jbilewicz&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jbilewicz&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jbilewicz&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_color=30363d" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jbilewicz&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
 </p>
