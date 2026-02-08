@@ -47,7 +47,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbilewicz&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbilewicz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </p>
 
 ### 📊 Stats
