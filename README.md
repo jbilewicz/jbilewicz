@@ -22,11 +22,10 @@
 
 
 
-### 🌱 About Me
+### About Me
 
-- 🔭 I’m currently studying Computer Science.
+- 📖 I’m currently studying Computer Science.
 
-- ⚡ I’m currently learning **C#**.
 
 
 
