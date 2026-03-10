@@ -24,12 +24,12 @@
 
 ### About Me
 
-- 📖 I’m currently studying Computer Science.
+-  I’m currently studying Computer Science.
 
 
 
 
-<h3 align="left">📫 How to reach me:</h3>
+<h3 align="left"> How to reach me:</h3>
 
 <p align="left">
 
@@ -45,7 +45,7 @@
 
 
 
-### 💻 Tech Stack
+###  Tech Stack
 
 <p align="left">
 
@@ -87,15 +87,3 @@
 
 
 
-
-
-
-
-### 📊 Stats
-
-<p align="center">
-
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jbilewicz&theme=tokyonight" />
-
-</p>
